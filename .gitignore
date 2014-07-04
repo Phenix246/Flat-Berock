@@ -1,5 +1,13 @@
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.next
-release.properties
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+build/
+.classpath
+.project
+.gradle/
+eclipse/
+bin/
+Thumbs.db

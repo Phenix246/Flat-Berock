@@ -1,0 +1,17 @@
+[
+{
+  "modid": "flat_bedrock",
+  "name": "Flat Bedrock",
+  "description": "Flat bedrock generator",
+  "logoFile": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "Blaze-empire.fr",
+  "updateUrl": "",
+  "authors": ["phenix246"],
+  "parent":"",
+  "dependencies": [
+     "MinecraftForge"
+  ]
+}
+]
